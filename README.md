@@ -52,7 +52,7 @@ The project includes inline comments for better understanding and ease of use.
 - For any errors, check the stack trace for details.
 
 ## Contributors
-- James Adress (Main Developer)
+- Kamal Hussain (Main Developer)
 
 ## License
 This project is not currently under a specific license. Rights and usage are defined by the creator, James Adress.
